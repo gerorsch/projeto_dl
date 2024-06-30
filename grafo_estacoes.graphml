@@ -1,0 +1,866 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="weight" attr.type="float"/>
+<key id="d2" for="node" attr.name="altitude" attr.type="long"/>
+<key id="d1" for="node" attr.name="longitude" attr.type="double"/>
+<key id="d0" for="node" attr.name="latitude" attr.type="double"/>
+<graph edgedefault="undirected"><node id="Estação Experimental UFRPE">
+  <data key="d0">-8.018378</data>
+  <data key="d1">-34.947058</data>
+  <data key="d2">8</data>
+</node>
+<node id="UPA de Nova Descoberta">
+  <data key="d0">-8.001917</data>
+  <data key="d1">-34.919278</data>
+  <data key="d2">26</data>
+</node>
+<node id="Dois Unidos">
+  <data key="d0">-7.996278</data>
+  <data key="d1">-34.909167</data>
+  <data key="d2">27</data>
+</node>
+<node id="UPA da Imbiribeira">
+  <data key="d0">-8.120975</data>
+  <data key="d1">-34.913983</data>
+  <data key="d2">8</data>
+</node>
+<node id="USF Alto Bela Vista-Ibura">
+  <data key="d0">-8.123583</data>
+  <data key="d1">-34.941528</data>
+  <data key="d2">78</data>
+</node>
+<node id="Alto do Céu">
+  <data key="d0">-8.012</data>
+  <data key="d1">-34.892</data>
+  <data key="d2">49</data>
+</node>
+<node id="Corrego Jenipapo">
+  <data key="d0">-8.007</data>
+  <data key="d1">-34.936</data>
+  <data key="d2">24</data>
+</node>
+<node id="Alto Mandu">
+  <data key="d0">-8.024</data>
+  <data key="d1">-34.927</data>
+  <data key="d2">39</data>
+</node>
+<node id="San Martin">
+  <data key="d0">-8.073</data>
+  <data key="d1">-34.925</data>
+  <data key="d2">8</data>
+</node>
+<node id="Guabiraba">
+  <data key="d0">-7.994</data>
+  <data key="d1">-34.936</data>
+  <data key="d2">33</data>
+</node>
+<node id="Morro da Conceição">
+  <data key="d0">-8.019</data>
+  <data key="d1">-34.915</data>
+  <data key="d2">45</data>
+</node>
+<node id="Campina do Barreto">
+  <data key="d0">-8.013</data>
+  <data key="d1">-34.881</data>
+  <data key="d2">9</data>
+</node>
+<node id="Ibura">
+  <data key="d0">-8.122</data>
+  <data key="d1">-34.955</data>
+  <data key="d2">83</data>
+</node>
+<node id="Várzea">
+  <data key="d0">-8.039</data>
+  <data key="d1">-34.959</data>
+  <data key="d2">11</data>
+</node>
+<node id="Pina">
+  <data key="d0">-8.099</data>
+  <data key="d1">-34.887</data>
+  <data key="d2">7</data>
+</node>
+<node id="Torreão">
+  <data key="d0">-8.037</data>
+  <data key="d1">-34.884</data>
+  <data key="d2">10</data>
+</node>
+<node id="Varzea">
+  <data key="d0">-8.036</data>
+  <data key="d1">-34.98</data>
+  <data key="d2">81</data>
+</node>
+<node id="Porto">
+  <data key="d0">-8.054</data>
+  <data key="d1">-34.873</data>
+  <data key="d2">3</data>
+</node>
+<node id="Areias">
+  <data key="d0">-8.102</data>
+  <data key="d1">-34.929</data>
+  <data key="d2">8</data>
+</node>
+<node id="Boa Vista">
+  <data key="d0">-8.069</data>
+  <data key="d1">-34.891</data>
+  <data key="d2">9</data>
+</node>
+<node id="RECIFE - APAC">
+  <data key="d0">-8.04491</data>
+  <data key="d1">-34.87518</data>
+  <data key="d2">7</data>
+</node>
+<node id="Dois Irmãos">
+  <data key="d0">-8.018378</data>
+  <data key="d1">-34.947058</data>
+  <data key="d2">8</data>
+</node>
+<node id="Alto Bela Vista">
+  <data key="d0">-8.123583</data>
+  <data key="d1">-34.941528</data>
+  <data key="d2">78</data>
+</node>
+<node id="Nova Descoberta">
+  <data key="d0">-8.000933</data>
+  <data key="d1">-34.933022</data>
+  <data key="d2">63</data>
+</node>
+<node id="Imbiribeira">
+  <data key="d0">-8.120975</data>
+  <data key="d1">-34.913983</data>
+  <data key="d2">8</data>
+</node>
+<node id="Brega e Chique">
+  <data key="d0">-8.038048</data>
+  <data key="d1">-34.979298</data>
+  <data key="d2">80</data>
+</node>
+<node id="Barreira">
+  <data key="d0">-8.024215</data>
+  <data key="d1">-34.964622</data>
+  <data key="d2">65</data>
+</node>
+<node id="UR3 - Ibura">
+  <data key="d0">-8.114365</data>
+  <data key="d1">-34.949029</data>
+  <data key="d2">81</data>
+</node>
+<node id="Lagoa Encantada - COHAB">
+  <data key="d0">-8.11784</data>
+  <data key="d1">-34.950142</data>
+  <data key="d2">60</data>
+</node>
+<node id="UR2 - COHAB">
+  <data key="d0">-8.122034</data>
+  <data key="d1">-34.952593</data>
+  <data key="d2">77</data>
+</node>
+<node id="Manassu">
+  <data key="d0">-8.08619</data>
+  <data key="d1">-35.028697</data>
+  <data key="d2">90</data>
+</node>
+<node id="UR12 - COHAB">
+  <data key="d0">-8.130699</data>
+  <data key="d1">-34.952228</data>
+  <data key="d2">64</data>
+</node>
+<node id="UR12 - COHAB II">
+  <data key="d0">-8.125</data>
+  <data key="d1">-34.954</data>
+  <data key="d2">58</data>
+</node>
+<node id="REC5">
+  <data key="d0">-8.00984</data>
+  <data key="d1">-34.90313</data>
+  <data key="d2">45</data>
+</node>
+<node id="COMPESA - Alto da Esperança">
+  <data key="d0">-7.995841</data>
+  <data key="d1">-34.915624</data>
+  <data key="d2">73</data>
+</node>
+<node id="COMPESA - Alto da Brasileira">
+  <data key="d0">-8.001254</data>
+  <data key="d1">-34.935572</data>
+  <data key="d2">78</data>
+</node>
+<node id="COMPAZ - Alto Sta. Terezinha">
+  <data key="d0">-8.00919</data>
+  <data key="d1">-34.902819</data>
+  <data key="d2">45</data>
+</node>
+<edge source="Estação Experimental UFRPE" target="UPA de Nova Descoberta">
+  <data key="d3">3.5646733086488336</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Dois Unidos">
+  <data key="d3">4.84212527136019</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Corrego Jenipapo">
+  <data key="d3">1.7559024957977771</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Alto Mandu">
+  <data key="d3">2.29529741156482</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Guabiraba">
+  <data key="d3">2.971618947978483</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Morro da Conceição">
+  <data key="d3">3.530511182459939</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Várzea">
+  <data key="d3">2.643298395191357</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Varzea">
+  <data key="d3">4.122542174188022</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Dois Irmãos">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Nova Descoberta">
+  <data key="d3">2.480200931567576</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Brega e Chique">
+  <data key="d3">4.1695169738870845</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="Barreira">
+  <data key="d3">2.0399276733506873</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="REC5">
+  <data key="d3">4.92915894548399</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="COMPESA - Alto da Esperança">
+  <data key="d3">4.273185460324663</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="COMPESA - Alto da Brasileira">
+  <data key="d3">2.2858550698329054</data>
+</edge>
+<edge source="Estação Experimental UFRPE" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">4.9771020766712315</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Dois Unidos">
+  <data key="d3">1.2777788892305761</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Alto do Céu">
+  <data key="d3">3.206038938330344</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Corrego Jenipapo">
+  <data key="d3">1.926081238515385</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Alto Mandu">
+  <data key="d3">2.5985602102944267</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Guabiraba">
+  <data key="d3">2.0409368031131603</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Morro da Conceição">
+  <data key="d3">1.9570773695647559</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Campina do Barreto">
+  <data key="d3">4.391292758029013</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Torreão">
+  <data key="d3">5.505139268485467</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Dois Irmãos">
+  <data key="d3">3.5646733086488336</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Nova Descoberta">
+  <data key="d3">1.5173349871740984</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="Barreira">
+  <data key="d3">5.574543669337227</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="REC5">
+  <data key="d3">1.9843662180517292</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="COMPESA - Alto da Esperança">
+  <data key="d3">0.7863529783459893</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="COMPESA - Alto da Brasileira">
+  <data key="d3">1.7956847242107716</data>
+</edge>
+<edge source="UPA de Nova Descoberta" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">1.9845752392474885</data>
+</edge>
+<edge source="Dois Unidos" target="Alto do Céu">
+  <data key="d3">2.57476432284811</data>
+</edge>
+<edge source="Dois Unidos" target="Corrego Jenipapo">
+  <data key="d3">3.186116941559641</data>
+</edge>
+<edge source="Dois Unidos" target="Alto Mandu">
+  <data key="d3">3.6548301607366716</data>
+</edge>
+<edge source="Dois Unidos" target="Guabiraba">
+  <data key="d3">2.9655293441053443</data>
+</edge>
+<edge source="Dois Unidos" target="Morro da Conceição">
+  <data key="d3">2.6069292058088616</data>
+</edge>
+<edge source="Dois Unidos" target="Campina do Barreto">
+  <data key="d3">3.6161786190867664</data>
+</edge>
+<edge source="Dois Unidos" target="Torreão">
+  <data key="d3">5.308716908982087</data>
+</edge>
+<edge source="Dois Unidos" target="Dois Irmãos">
+  <data key="d3">4.84212527136019</data>
+</edge>
+<edge source="Dois Unidos" target="Nova Descoberta">
+  <data key="d3">2.677262666689906</data>
+</edge>
+<edge source="Dois Unidos" target="REC5">
+  <data key="d3">1.6480377117629426</data>
+</edge>
+<edge source="Dois Unidos" target="COMPESA - Alto da Esperança">
+  <data key="d3">0.7126636570181831</data>
+</edge>
+<edge source="Dois Unidos" target="COMPESA - Alto da Brasileira">
+  <data key="d3">2.959715909771265</data>
+</edge>
+<edge source="Dois Unidos" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">1.5968605699922107</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="USF Alto Bela Vista-Ibura">
+  <data key="d3">3.0459762102994468</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="San Martin">
+  <data key="d3">5.470707925103189</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="Ibura">
+  <data key="d3">4.5165783509213355</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="Pina">
+  <data key="d3">3.8462721215019964</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="Areias">
+  <data key="d3">2.6804002341415765</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="Alto Bela Vista">
+  <data key="d3">3.0459762102994468</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="Imbiribeira">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="UR3 - Ibura">
+  <data key="d3">3.9272819288862264</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="Lagoa Encantada - COHAB">
+  <data key="d3">3.9956289434550745</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="UR2 - COHAB">
+  <data key="d3">4.251808934606186</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="UR12 - COHAB">
+  <data key="d3">4.346588315033696</data>
+</edge>
+<edge source="UPA da Imbiribeira" target="UR12 - COHAB II">
+  <data key="d3">4.427721887286067</data>
+</edge>
+<edge source="USF Alto Bela Vista-Ibura" target="San Martin">
+  <data key="d3">5.911548934863786</data>
+</edge>
+<edge source="USF Alto Bela Vista-Ibura" target="Ibura">
+  <data key="d3">1.4933990269687771</data>
+</edge>
+<edge source="USF Alto Bela Vista-Ibura" target="Areias">
+  <data key="d3">2.767951790901586</data>
+</edge>
+<edge source="USF Alto Bela Vista-Ibura" target="Alto Bela Vista">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="USF Alto Bela Vista-Ibura" target="Imbiribeira">
+  <data key="d3">3.0459762102994468</data>
+</edge>
+<edge source="USF Alto Bela Vista-Ibura" target="UR3 - Ibura">
+  <data key="d3">1.3162130019459126</data>
+</edge>
+<edge source="USF Alto Bela Vista-Ibura" target="Lagoa Encantada - COHAB">
+  <data key="d3">1.1432137914179128</data>
+</edge>
+<edge source="USF Alto Bela Vista-Ibura" target="UR2 - COHAB">
+  <data key="d3">1.2301461299083951</data>
+</edge>
+<edge source="USF Alto Bela Vista-Ibura" target="UR12 - COHAB">
+  <data key="d3">1.4189418655588626</data>
+</edge>
+<edge source="USF Alto Bela Vista-Ibura" target="UR12 - COHAB II">
+  <data key="d3">1.381916630869948</data>
+</edge>
+<edge source="Alto do Céu" target="Corrego Jenipapo">
+  <data key="d3">4.876645902187084</data>
+</edge>
+<edge source="Alto do Céu" target="Alto Mandu">
+  <data key="d3">4.078242147822484</data>
+</edge>
+<edge source="Alto do Céu" target="Guabiraba">
+  <data key="d3">5.24207529124013</data>
+</edge>
+<edge source="Alto do Céu" target="Morro da Conceição">
+  <data key="d3">2.6494142294332854</data>
+</edge>
+<edge source="Alto do Céu" target="Campina do Barreto">
+  <data key="d3">1.2162969043415284</data>
+</edge>
+<edge source="Alto do Céu" target="Torreão">
+  <data key="d3">2.9160916018543586</data>
+</edge>
+<edge source="Alto do Céu" target="Porto">
+  <data key="d3">5.117323286279203</data>
+</edge>
+<edge source="Alto do Céu" target="RECIFE - APAC">
+  <data key="d3">4.101362614181835</data>
+</edge>
+<edge source="Alto do Céu" target="Nova Descoberta">
+  <data key="d3">4.6816049903049155</data>
+</edge>
+<edge source="Alto do Céu" target="REC5">
+  <data key="d3">1.2488363418975799</data>
+</edge>
+<edge source="Alto do Céu" target="COMPESA - Alto da Esperança">
+  <data key="d3">3.161509221168748</data>
+</edge>
+<edge source="Alto do Céu" target="COMPESA - Alto da Brasileira">
+  <data key="d3">4.944315184697363</data>
+</edge>
+<edge source="Alto do Céu" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">1.231574632828483</data>
+</edge>
+<edge source="Corrego Jenipapo" target="Alto Mandu">
+  <data key="d3">2.1343200768883355</data>
+</edge>
+<edge source="Corrego Jenipapo" target="Guabiraba">
+  <data key="d3">1.4455340463792523</data>
+</edge>
+<edge source="Corrego Jenipapo" target="Morro da Conceição">
+  <data key="d3">2.6696755646483115</data>
+</edge>
+<edge source="Corrego Jenipapo" target="Várzea">
+  <data key="d3">4.367420630294787</data>
+</edge>
+<edge source="Corrego Jenipapo" target="Varzea">
+  <data key="d3">5.819756747852994</data>
+</edge>
+<edge source="Corrego Jenipapo" target="Dois Irmãos">
+  <data key="d3">1.7559024957977771</data>
+</edge>
+<edge source="Corrego Jenipapo" target="Nova Descoberta">
+  <data key="d3">0.7500922339158158</data>
+</edge>
+<edge source="Corrego Jenipapo" target="Brega e Chique">
+  <data key="d3">5.886172487839992</data>
+</edge>
+<edge source="Corrego Jenipapo" target="Barreira">
+  <data key="d3">3.6873249654394495</data>
+</edge>
+<edge source="Corrego Jenipapo" target="REC5">
+  <data key="d3">3.633083130619904</data>
+</edge>
+<edge source="Corrego Jenipapo" target="COMPESA - Alto da Esperança">
+  <data key="d3">2.5639054752668597</data>
+</edge>
+<edge source="Corrego Jenipapo" target="COMPESA - Alto da Brasileira">
+  <data key="d3">0.6406617863585439</data>
+</edge>
+<edge source="Corrego Jenipapo" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">3.661686142889023</data>
+</edge>
+<edge source="Alto Mandu" target="San Martin">
+  <data key="d3">5.452999188016026</data>
+</edge>
+<edge source="Alto Mandu" target="Guabiraba">
+  <data key="d3">3.4799350560248867</data>
+</edge>
+<edge source="Alto Mandu" target="Morro da Conceição">
+  <data key="d3">1.4334916334511172</data>
+</edge>
+<edge source="Alto Mandu" target="Campina do Barreto">
+  <data key="d3">5.21055478959898</data>
+</edge>
+<edge source="Alto Mandu" target="Várzea">
+  <data key="d3">3.8981879142039135</data>
+</edge>
+<edge source="Alto Mandu" target="Torreão">
+  <data key="d3">4.950253547341805</data>
+</edge>
+<edge source="Alto Mandu" target="Varzea">
+  <data key="d3">5.986156845360033</data>
+</edge>
+<edge source="Alto Mandu" target="Dois Irmãos">
+  <data key="d3">2.29529741156482</data>
+</edge>
+<edge source="Alto Mandu" target="Nova Descoberta">
+  <data key="d3">2.6492559010112937</data>
+</edge>
+<edge source="Alto Mandu" target="Brega e Chique">
+  <data key="d3">5.966353295886689</data>
+</edge>
+<edge source="Alto Mandu" target="Barreira">
+  <data key="d3">4.142486855411485</data>
+</edge>
+<edge source="Alto Mandu" target="REC5">
+  <data key="d3">3.0638187183869436</data>
+</edge>
+<edge source="Alto Mandu" target="COMPESA - Alto da Esperança">
+  <data key="d3">3.3723972109855658</data>
+</edge>
+<edge source="Alto Mandu" target="COMPESA - Alto da Brasileira">
+  <data key="d3">2.6996149747782394</data>
+</edge>
+<edge source="Alto Mandu" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">3.130654769197696</data>
+</edge>
+<edge source="San Martin" target="Várzea">
+  <data key="d3">5.320298713373398</data>
+</edge>
+<edge source="San Martin" target="Pina">
+  <data key="d3">5.085184068603748</data>
+</edge>
+<edge source="San Martin" target="Areias">
+  <data key="d3">3.2545813301369186</data>
+</edge>
+<edge source="San Martin" target="Boa Vista">
+  <data key="d3">3.76951244730603</data>
+</edge>
+<edge source="San Martin" target="Alto Bela Vista">
+  <data key="d3">5.911548934863786</data>
+</edge>
+<edge source="San Martin" target="Imbiribeira">
+  <data key="d3">5.470707925103189</data>
+</edge>
+<edge source="San Martin" target="UR3 - Ibura">
+  <data key="d3">5.306003237907481</data>
+</edge>
+<edge source="San Martin" target="Lagoa Encantada - COHAB">
+  <data key="d3">5.702695792912938</data>
+</edge>
+<edge source="Guabiraba" target="Morro da Conceição">
+  <data key="d3">3.6158777899697054</data>
+</edge>
+<edge source="Guabiraba" target="Várzea">
+  <data key="d3">5.6081408535212995</data>
+</edge>
+<edge source="Guabiraba" target="Dois Irmãos">
+  <data key="d3">2.971618947978483</data>
+</edge>
+<edge source="Guabiraba" target="Nova Descoberta">
+  <data key="d3">0.8377584435519084</data>
+</edge>
+<edge source="Guabiraba" target="Barreira">
+  <data key="d3">4.606559823515545</data>
+</edge>
+<edge source="Guabiraba" target="REC5">
+  <data key="d3">4.025203150124541</data>
+</edge>
+<edge source="Guabiraba" target="COMPESA - Alto da Esperança">
+  <data key="d3">2.2530053827383547</data>
+</edge>
+<edge source="Guabiraba" target="COMPESA - Alto da Brasileira">
+  <data key="d3">0.8079836397622107</data>
+</edge>
+<edge source="Guabiraba" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">4.025166312295129</data>
+</edge>
+<edge source="Morro da Conceição" target="Campina do Barreto">
+  <data key="d3">3.8026717190460038</data>
+</edge>
+<edge source="Morro da Conceição" target="Várzea">
+  <data key="d3">5.330669853316859</data>
+</edge>
+<edge source="Morro da Conceição" target="Torreão">
+  <data key="d3">3.9568157530352446</data>
+</edge>
+<edge source="Morro da Conceição" target="RECIFE - APAC">
+  <data key="d3">5.246237309034216</data>
+</edge>
+<edge source="Morro da Conceição" target="Dois Irmãos">
+  <data key="d3">3.530511182459939</data>
+</edge>
+<edge source="Morro da Conceição" target="Nova Descoberta">
+  <data key="d3">2.8237872981345764</data>
+</edge>
+<edge source="Morro da Conceição" target="Barreira">
+  <data key="d3">5.494412741706845</data>
+</edge>
+<edge source="Morro da Conceição" target="REC5">
+  <data key="d3">1.657004633097616</data>
+</edge>
+<edge source="Morro da Conceição" target="COMPESA - Alto da Esperança">
+  <data key="d3">2.5760797731115024</data>
+</edge>
+<edge source="Morro da Conceição" target="COMPESA - Alto da Brasileira">
+  <data key="d3">3.0041360722567716</data>
+</edge>
+<edge source="Morro da Conceição" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">1.7288177926225525</data>
+</edge>
+<edge source="Campina do Barreto" target="Torreão">
+  <data key="d3">2.689043244282753</data>
+</edge>
+<edge source="Campina do Barreto" target="Porto">
+  <data key="d3">4.64330367229436</data>
+</edge>
+<edge source="Campina do Barreto" target="RECIFE - APAC">
+  <data key="d3">3.605631067378193</data>
+</edge>
+<edge source="Campina do Barreto" target="Nova Descoberta">
+  <data key="d3">5.883243296215184</data>
+</edge>
+<edge source="Campina do Barreto" target="REC5">
+  <data key="d3">2.461931479341934</data>
+</edge>
+<edge source="Campina do Barreto" target="COMPESA - Alto da Esperança">
+  <data key="d3">4.263288011942235</data>
+</edge>
+<edge source="Campina do Barreto" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">2.4395527929162615</data>
+</edge>
+<edge source="Ibura" target="Areias">
+  <data key="d3">3.624578931156814</data>
+</edge>
+<edge source="Ibura" target="Alto Bela Vista">
+  <data key="d3">1.4933990269687771</data>
+</edge>
+<edge source="Ibura" target="Imbiribeira">
+  <data key="d3">4.5165783509213355</data>
+</edge>
+<edge source="Ibura" target="UR3 - Ibura">
+  <data key="d3">1.073679489812518</data>
+</edge>
+<edge source="Ibura" target="Lagoa Encantada - COHAB">
+  <data key="d3">0.707071518511802</data>
+</edge>
+<edge source="Ibura" target="UR2 - COHAB">
+  <data key="d3">0.2649885181869138</data>
+</edge>
+<edge source="Ibura" target="UR12 - COHAB">
+  <data key="d3">1.0142723492825179</data>
+</edge>
+<edge source="Ibura" target="UR12 - COHAB II">
+  <data key="d3">0.3512779948372876</data>
+</edge>
+<edge source="Várzea" target="Varzea">
+  <data key="d3">2.336095227223441</data>
+</edge>
+<edge source="Várzea" target="Dois Irmãos">
+  <data key="d3">2.643298395191357</data>
+</edge>
+<edge source="Várzea" target="Nova Descoberta">
+  <data key="d3">5.108697974489232</data>
+</edge>
+<edge source="Várzea" target="Brega e Chique">
+  <data key="d3">2.237363256840041</data>
+</edge>
+<edge source="Várzea" target="Barreira">
+  <data key="d3">1.7566901483565778</data>
+</edge>
+<edge source="Várzea" target="COMPESA - Alto da Brasileira">
+  <data key="d3">4.926509137631255</data>
+</edge>
+<edge source="Pina" target="Porto">
+  <data key="d3">5.235771276062345</data>
+</edge>
+<edge source="Pina" target="Areias">
+  <data key="d3">4.635607981399966</data>
+</edge>
+<edge source="Pina" target="Boa Vista">
+  <data key="d3">3.364787867145781</data>
+</edge>
+<edge source="Pina" target="Imbiribeira">
+  <data key="d3">3.8462721215019964</data>
+</edge>
+<edge source="Torreão" target="Porto">
+  <data key="d3">2.24500814501313</data>
+</edge>
+<edge source="Torreão" target="Boa Vista">
+  <data key="d3">3.640743969532076</data>
+</edge>
+<edge source="Torreão" target="RECIFE - APAC">
+  <data key="d3">1.3102063892040363</data>
+</edge>
+<edge source="Torreão" target="REC5">
+  <data key="d3">3.682034810261453</data>
+</edge>
+<edge source="Torreão" target="COMPESA - Alto da Esperança">
+  <data key="d3">5.750714023489304</data>
+</edge>
+<edge source="Torreão" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">3.7223766382643424</data>
+</edge>
+<edge source="Varzea" target="Dois Irmãos">
+  <data key="d3">4.122542174188022</data>
+</edge>
+<edge source="Varzea" target="Brega e Chique">
+  <data key="d3">0.2404865003169423</data>
+</edge>
+<edge source="Varzea" target="Barreira">
+  <data key="d3">2.1410562771966415</data>
+</edge>
+<edge source="Porto" target="Boa Vista">
+  <data key="d3">2.5902169584699246</data>
+</edge>
+<edge source="Porto" target="RECIFE - APAC">
+  <data key="d3">1.0388684146136624</data>
+</edge>
+<edge source="Porto" target="REC5">
+  <data key="d3">5.925968901095</data>
+</edge>
+<edge source="Porto" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">5.967087860275916</data>
+</edge>
+<edge source="Areias" target="Boa Vista">
+  <data key="d3">5.5646743793272995</data>
+</edge>
+<edge source="Areias" target="Alto Bela Vista">
+  <data key="d3">2.767951790901586</data>
+</edge>
+<edge source="Areias" target="Imbiribeira">
+  <data key="d3">2.6804002341415765</data>
+</edge>
+<edge source="Areias" target="UR3 - Ibura">
+  <data key="d3">2.5984276460853133</data>
+</edge>
+<edge source="Areias" target="Lagoa Encantada - COHAB">
+  <data key="d3">2.91872197149054</data>
+</edge>
+<edge source="Areias" target="UR2 - COHAB">
+  <data key="d3">3.421674680632031</data>
+</edge>
+<edge source="Areias" target="UR12 - COHAB">
+  <data key="d3">4.089219703758347</data>
+</edge>
+<edge source="Areias" target="UR12 - COHAB II">
+  <data key="d3">3.756925347592025</data>
+</edge>
+<edge source="Boa Vista" target="RECIFE - APAC">
+  <data key="d3">3.1951550568058495</data>
+</edge>
+<edge source="RECIFE - APAC" target="REC5">
+  <data key="d3">4.9676550857972455</data>
+</edge>
+<edge source="RECIFE - APAC" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">5.00369355226857</data>
+</edge>
+<edge source="Dois Irmãos" target="Nova Descoberta">
+  <data key="d3">2.480200931567576</data>
+</edge>
+<edge source="Dois Irmãos" target="Brega e Chique">
+  <data key="d3">4.1695169738870845</data>
+</edge>
+<edge source="Dois Irmãos" target="Barreira">
+  <data key="d3">2.0399276733506873</data>
+</edge>
+<edge source="Dois Irmãos" target="REC5">
+  <data key="d3">4.92915894548399</data>
+</edge>
+<edge source="Dois Irmãos" target="COMPESA - Alto da Esperança">
+  <data key="d3">4.273185460324663</data>
+</edge>
+<edge source="Dois Irmãos" target="COMPESA - Alto da Brasileira">
+  <data key="d3">2.2858550698329054</data>
+</edge>
+<edge source="Dois Irmãos" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">4.9771020766712315</data>
+</edge>
+<edge source="Alto Bela Vista" target="Imbiribeira">
+  <data key="d3">3.0459762102994468</data>
+</edge>
+<edge source="Alto Bela Vista" target="UR3 - Ibura">
+  <data key="d3">1.3162130019459126</data>
+</edge>
+<edge source="Alto Bela Vista" target="Lagoa Encantada - COHAB">
+  <data key="d3">1.1432137914179128</data>
+</edge>
+<edge source="Alto Bela Vista" target="UR2 - COHAB">
+  <data key="d3">1.2301461299083951</data>
+</edge>
+<edge source="Alto Bela Vista" target="UR12 - COHAB">
+  <data key="d3">1.4189418655588626</data>
+</edge>
+<edge source="Alto Bela Vista" target="UR12 - COHAB II">
+  <data key="d3">1.381916630869948</data>
+</edge>
+<edge source="Nova Descoberta" target="Barreira">
+  <data key="d3">4.336901213141911</data>
+</edge>
+<edge source="Nova Descoberta" target="REC5">
+  <data key="d3">3.4372296120590433</data>
+</edge>
+<edge source="Nova Descoberta" target="COMPESA - Alto da Esperança">
+  <data key="d3">1.9976698848961814</data>
+</edge>
+<edge source="Nova Descoberta" target="COMPESA - Alto da Brasileira">
+  <data key="d3">0.2830464374280697</data>
+</edge>
+<edge source="Nova Descoberta" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">3.4501047601281964</data>
+</edge>
+<edge source="Imbiribeira" target="UR3 - Ibura">
+  <data key="d3">3.9272819288862264</data>
+</edge>
+<edge source="Imbiribeira" target="Lagoa Encantada - COHAB">
+  <data key="d3">3.9956289434550745</data>
+</edge>
+<edge source="Imbiribeira" target="UR2 - COHAB">
+  <data key="d3">4.251808934606186</data>
+</edge>
+<edge source="Imbiribeira" target="UR12 - COHAB">
+  <data key="d3">4.346588315033696</data>
+</edge>
+<edge source="Imbiribeira" target="UR12 - COHAB II">
+  <data key="d3">4.427721887286067</data>
+</edge>
+<edge source="Brega e Chique" target="Barreira">
+  <data key="d3">2.230928065950811</data>
+</edge>
+<edge source="Barreira" target="COMPESA - Alto da Brasileira">
+  <data key="d3">4.092687232255109</data>
+</edge>
+<edge source="UR3 - Ibura" target="Lagoa Encantada - COHAB">
+  <data key="d3">0.4053616091343534</data>
+</edge>
+<edge source="UR3 - Ibura" target="UR2 - COHAB">
+  <data key="d3">0.9386745712178654</data>
+</edge>
+<edge source="UR3 - Ibura" target="UR12 - COHAB">
+  <data key="d3">1.8500806352756494</data>
+</edge>
+<edge source="UR3 - Ibura" target="UR12 - COHAB II">
+  <data key="d3">1.3030276155345215</data>
+</edge>
+<edge source="Lagoa Encantada - COHAB" target="UR2 - COHAB">
+  <data key="d3">0.5387757056368306</data>
+</edge>
+<edge source="Lagoa Encantada - COHAB" target="UR12 - COHAB">
+  <data key="d3">1.448176244944796</data>
+</edge>
+<edge source="Lagoa Encantada - COHAB" target="UR12 - COHAB II">
+  <data key="d3">0.9023433144092696</data>
+</edge>
+<edge source="UR2 - COHAB" target="UR12 - COHAB">
+  <data key="d3">0.9643414098102367</data>
+</edge>
+<edge source="UR2 - COHAB" target="UR12 - COHAB II">
+  <data key="d3">0.36436111720793435</data>
+</edge>
+<edge source="UR12 - COHAB" target="UR12 - COHAB II">
+  <data key="d3">0.6630409038537696</data>
+</edge>
+<edge source="REC5" target="COMPESA - Alto da Esperança">
+  <data key="d3">2.0774306755253438</data>
+</edge>
+<edge source="REC5" target="COMPESA - Alto da Brasileira">
+  <data key="d3">3.6976099424022504</data>
+</edge>
+<edge source="REC5" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">0.07997869822746725</data>
+</edge>
+<edge source="COMPESA - Alto da Esperança" target="COMPESA - Alto da Brasileira">
+  <data key="d3">2.277511598218637</data>
+</edge>
+<edge source="COMPESA - Alto da Esperança" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">2.047273203287569</data>
+</edge>
+<edge source="COMPESA - Alto da Brasileira" target="COMPAZ - Alto Sta. Terezinha">
+  <data key="d3">3.712867887917652</data>
+</edge>
+</graph></graphml>
